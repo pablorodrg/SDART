@@ -1,5 +1,7 @@
 # SDART
-Software docente de ajuste de redes de trilateracion
+Trilateration Network Adjustment Teaching Software
+
+(*Software Docente de Ajuste de Redes de Trilateracion*)
 
 ## Citation
 If you use SDART in your teaching and/or research, please cite it as below:
